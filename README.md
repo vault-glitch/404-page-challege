@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <span></span>
-    <a href="https://github.com/vault-glitch/404-page-challege">
+    <a href="https://vault-glitch.github.io/404-page-challege/indexCD.html">
       Solution
     </a>
     <span> | </span>
