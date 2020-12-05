@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
+    
     <a href="https://github.com/vault-glitch/404-page-challege">
       Solution
     </a>
